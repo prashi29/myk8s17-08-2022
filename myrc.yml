@@ -7,7 +7,7 @@ spec:
   selector:
      app:   mynginx
   template:
-     metadeta:
+     metadata:
         labels:
            app: mynginx
      spec: 
