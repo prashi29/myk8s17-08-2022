@@ -10,11 +10,11 @@ spec:
      metadeta:
         labels:
            app: mynginx
-  spec: 
-    containers:
-    - name: mynginx-container
-      image: nginx
-      ports:
-      - containerPort: 80         
+     spec: 
+       containers:
+       - name: mynginx-container
+       image: nginx
+       ports:
+        - containerPort: 80         
 
  
