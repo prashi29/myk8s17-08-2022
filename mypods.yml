@@ -1,5 +1,5 @@
-apiVersion: V1
-kind: Pod
+apiVersion: v1
+kind: pod
 metadata:
    name: hello-pod
 spec:
